@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HOMEWORK-2-CLIFFDBOAN/static/css/main.073c9b0a.css",
+    "main.js": "/HOMEWORK-2-CLIFFDBOAN/static/js/main.de460722.js",
+    "static/js/787.b0e29ad6.chunk.js": "/HOMEWORK-2-CLIFFDBOAN/static/js/787.b0e29ad6.chunk.js",
+    "index.html": "/HOMEWORK-2-CLIFFDBOAN/index.html",
+    "main.073c9b0a.css.map": "/HOMEWORK-2-CLIFFDBOAN/static/css/main.073c9b0a.css.map",
+    "main.de460722.js.map": "/HOMEWORK-2-CLIFFDBOAN/static/js/main.de460722.js.map",
+    "787.b0e29ad6.chunk.js.map": "/HOMEWORK-2-CLIFFDBOAN/static/js/787.b0e29ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.de460722.js"
+  ]
+}

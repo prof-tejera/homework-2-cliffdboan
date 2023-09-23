@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Dyly4g6C)
 # Homework 2 - Dev Setup and Deployment
 
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
@@ -33,7 +34,7 @@ export default App;
 
 `const linkElement = screen.getByText(/Hello CSCI E-39!/i);`
 
-- make sure all tests pass when running `npm run test` 
+- make sure all tests pass when running `npm run test`
 
 ## Step 2
 Deploy the application using Github Pages (https://github.com/prof-tejera/react-deployment-code#github-actions) or a different method if you prefer. As long as the URL is avaliable on the public internet and live for 2 weeks, then you can use whatever method you want.
@@ -41,7 +42,7 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL to live application: https://prof-tejera.github.io/homework-2-cliffdboan/
+- What code editor are you using? VS Code
 
 That is all!
